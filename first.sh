@@ -24,4 +24,14 @@
 #unset your_hobby
 #echo "$your_hobby"
 
-echo $myvalue
+#echo $myvalue
+
+#str1='hello '
+#str2='world'
+#echo $str1$str2 "good"
+
+#str="hellobibibabibobi"
+#echo ${#str}
+#echo ${str:1:5}
+
+
